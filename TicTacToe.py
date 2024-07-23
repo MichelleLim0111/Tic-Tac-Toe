@@ -13,7 +13,7 @@ winning_combos = [[0, 1, 2], [3, 4, 5], [6, 7, 8], [0, 3, 6],
 # Formatting for log_file
 Heading = "Move Count  |  Player  |  Piece  |  Row  |  Column  "
 Line_zero = "0                H          X"
-file = open("logfile_21050349.txt", 'w')
+file = open("logfile.txt", 'w')
 file.write("\n" + Heading + "\n")
 file.write(Line_zero)
 
