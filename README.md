@@ -21,10 +21,10 @@ To run the game, you need Python installed on your machine.
 ### Running the Game
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/MichelleLim0001/Tic-Tac-Toe.git
 2. Navigate to the directory
    ```bash
-   cd tictactoe
+   cd Tic-Tac-Toe
 3. Run the python code
    ```bash
    python tictactoe.py
